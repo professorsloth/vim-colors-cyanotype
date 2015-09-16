@@ -3,7 +3,7 @@
 " Last Change: 2015-09-16
 "
 " Based on "blueprint" by Xiance Si <adam.si@gmail.com>
-" http://www.vim.org/scripts/script.php?script_id=1673)
+" http://www.vim.org/scripts/script.php?script_id=1673
 
 set bg=dark
 hi clear
