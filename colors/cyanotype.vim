@@ -1,6 +1,6 @@
 " Vim color file
 " Maintainer: Christian Trommestad <christian.trommestad@gmail.com>
-" Last Change: 2015-09-16
+" Last Change: 2015-11-13
 "
 " Based on "blueprint" by Xiance Si <adam.si@gmail.com>
 " http://www.vim.org/scripts/script.php?script_id=1673
@@ -13,7 +13,7 @@ endif
 
 let colors_name = "cyanotype"
 
-hi Comment guifg=#80a0ff ctermfg=darkred
+hi Comment guifg=#80a0ff ctermfg=darkblue
 hi Constant ctermfg=magenta guifg=#ffa0a0 cterm=none
 hi Cursor guifg=#000020 guibg=#ffaf38 ctermfg=black ctermbg=brown
 hi CursorColumn guibg=#0d3966
@@ -44,7 +44,7 @@ hi Search guifg=#2050d0 guibg=#90fff0 ctermfg=white ctermbg=darkblue cterm=under
 hi Special ctermfg=brown guifg=Orange cterm=none gui=none
 hi SpecialKey guifg=cyan ctermfg=darkcyan
 hi Statement ctermfg=white cterm=none guifg=white gui=bold
-hi StatusLine guifg=#0e4072 guibg=darkgray gui=bold ctermfg=blue ctermbg=gray term=none cterm=none
+hi StatusLine guifg=#0e4072 guibg=darkgray gui=bold ctermfg=black ctermbg=gray term=none cterm=none
 hi StatusLineNC guifg=black guibg=darkgray gui=none ctermfg=black ctermbg=gray term=none cterm=none
 hi Title guifg=magenta gui=none ctermfg=magenta cterm=bold
 hi Todo guifg=#d14a14 guibg=#1248d1 ctermfg=red ctermbg=darkblue
