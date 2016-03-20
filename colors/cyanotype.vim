@@ -1,6 +1,5 @@
 " Vim color file
 " Maintainer: Christian Trommestad <christian.trommestad@gmail.com>
-" Last Change: 2015-11-13
 "
 " Based on "blueprint" by Xiance Si <adam.si@gmail.com>
 " http://www.vim.org/scripts/script.php?script_id=1673
