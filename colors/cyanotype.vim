@@ -47,7 +47,7 @@ hi Statement ctermfg=white cterm=none guifg=white gui=bold
 hi StatusLine guifg=#0e4072 guibg=darkgray gui=bold ctermfg=black ctermbg=gray term=none cterm=none
 hi StatusLineNC guifg=black guibg=darkgray gui=none ctermfg=black ctermbg=gray term=none cterm=none
 hi Title guifg=magenta gui=none ctermfg=magenta cterm=bold
-hi Todo guifg=#d14a14 guibg=#1248d1 ctermfg=red ctermbg=darkblue
+hi Todo guifg=#0e4072 guibg=#ffffff ctermfg=red ctermbg=darkblue
 hi type ctermfg=darkgreen guifg=#60ff60 gui=none cterm=none
 hi Underlined cterm=underline term=underline
 hi VertSplit guifg=#0e4072 guibg=darkgray gui=none ctermfg=black ctermbg=gray term=none cterm=none
