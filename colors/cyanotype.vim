@@ -33,7 +33,7 @@ hi lCursor guifg=#ffffff guibg=#000000 ctermfg=white ctermbg=darkgreen
 hi LineNr guifg=#808080 ctermfg=green cterm=none
 hi ModeMsg guifg=#22cce2 ctermfg=lightblue
 hi MoreMsg ctermfg=darkgreen
-hi NonText guifg=#0030ff ctermfg=darkblue
+hi NonText guifg=#80a0ff ctermfg=darkgray
 hi Normal guifg=#cccccc guibg=#0e4072 ctermfg=gray ctermbg=black
 hi Pmenu guifg=#bbbbbb guibg=#444444
 hi PmenuSel guifg=#eeeeee guibg=#111111
@@ -41,7 +41,7 @@ hi PreProc ctermfg=magenta guifg=#999999 gui=none cterm=none
 hi Question guifg=green gui=none ctermfg=green cterm=none
 hi Search guifg=#2050d0 guibg=#90fff0 ctermfg=white ctermbg=darkblue cterm=underline term=underline
 hi Special ctermfg=brown guifg=Orange cterm=none gui=none
-hi SpecialKey guifg=cyan ctermfg=darkcyan
+hi SpecialKey guifg=#80a0ff ctermfg=darkgray
 hi Statement ctermfg=white cterm=none guifg=white gui=bold
 hi StatusLine guifg=#0e4072 guibg=darkgray gui=bold ctermfg=black ctermbg=gray term=none cterm=none
 hi StatusLineNC guifg=black guibg=darkgray gui=none ctermfg=black ctermbg=gray term=none cterm=none
